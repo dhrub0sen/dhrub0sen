@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhrub0sen
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning c and python
-- 💞️ I’m a beginner and looking forward  to master programming
+- 💞️ I’m a beginner and looking forward  to be a better one
 - 📫 reach me through my gmail
 
 <!---
